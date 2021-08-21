@@ -30,14 +30,7 @@ body{
     color:#116dfa !important;
 }
 
-.body{
+.container{
     margin-left: 20rem;
-    margin-top: 3rem;
+    margin-top: 1rem;
 }
-
-.crypto-graph{
-    margin-left: 20rem;
-    height: 500px;
-    width: 1000px;
-}
-
