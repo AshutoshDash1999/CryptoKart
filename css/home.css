@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.vertical-nav {
+  min-width: 15rem;
+  width: 15rem;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s;
+}
+
+#sidebar.active {
+  margin-left: -15rem;
+}
+
+.nav-link{
+    text-transform: capitalize;
+}
+
+.nav-link:hover{
+    background:#f3f2f2;
+}
+
+.text-primary{
+    color:#7579e7 !important;
+}
+
+.body{
+    margin-left: 20rem;
+    margin-top: 3rem;
+}
+
+.crypto-graph{
+    margin-left: 20rem;
+    height: 500px;
+    width: 1000px;
+}
+
