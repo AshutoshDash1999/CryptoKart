@@ -8,7 +8,7 @@ Basically, the app shows the latest price of different cryptocurrencies with opt
 The whole website is built using HTML, CSS, JavaScript and Bootstrap. The website is hosted in Netlify and Git is used for version control.
 
 ## Challenges we ran into
-The first challenge that I faced was the design thinking. How the UI should look? What should be the website flow. The second challenge was learning about Crypto. With no
+The first challenge that I faced was the design thinking. How the UI should look? What should be the website flow. The second challenge was learning about Crypto. With no knowledge of cryptocurrencies, this project helped me in learnign about cryptos.
 
 ## What we learned
 I learned more about how cryptocurrencies and block-chain works. Working in version control like Git is improved
