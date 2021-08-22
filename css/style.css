@@ -3,10 +3,12 @@ body{
     margin: 0;
 }
 
+/* Logo css  */
 .navbar-brand img{
     height: 50px;
 }
 
+/* hero figure css  */
 .hero-figure .row .col-md-6{
     margin: auto;
 }

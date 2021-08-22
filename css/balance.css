@@ -3,6 +3,7 @@ body{
     padding: 0;
 }
 
+/* Vertical bar  */
 .vertical-nav {
   min-width: 15rem;
   width: 15rem;
@@ -34,6 +35,7 @@ body{
     margin-left: 17rem;
 }
 
+/* Assets CSS  */
 .content table{
     text-align: center;
 }
